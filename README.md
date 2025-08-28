@@ -7,13 +7,13 @@
 
 - 🎓 I'm currently studying **Systems Analysis and Development at the University of São Caetano do Sul (USCS).**
 
-- 🌙 I am a **20 year old young woman**
+- 🌙 I am a **20 year old young woman.**
 
 - 📝 I have earned certificates in **Fundamentals of Technical Support and System Administration and IT Infrastructure Services.**
 
 - 🔎 I'm seeking an opportunity to **start my career in the IT field.**
 
-- 💬 I am very **communicative and handle problem solving well**
+- 💬 I am very **communicative and handle problem solving well.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
