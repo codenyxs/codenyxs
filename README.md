@@ -1,3 +1,5 @@
+<img align="center" alt="Matrix Digital Rain Banner" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif">
+
 <h1 align="center">⋆ Hi! My name is Manuela. ⋆</h1>
 <h3 align="center">‧₊˚ What about turning ideas into binaries? ‧</h3>
 
