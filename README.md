@@ -1,6 +1,8 @@
 <h1 align="center">⋆ Hi! My name is Manuela. ⋆</h1>
 <h3 align="center">‧₊˚ What about turning ideas into binaries? ‧</h3>
+
 <img align="right" alt="codificação" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanI5dGUydDNtOWZydWxkOTI3ZGNjaDFqZjRrbmN6MjUxd2g1OTNsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif">
+
 - 🎓 I'm currently studying **Systems Analysis and Development at the University of São Caetano do Sul (USCS).**
 
 - 🌙 I am a **20 year old young woman**
