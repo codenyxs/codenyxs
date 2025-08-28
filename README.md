@@ -1,5 +1,5 @@
 <h1 align="center">⋆ Hi! My name is Manuela. ⋆</h1>
-<h3 align="center">‧₊˚ What about turning dreams into binaries? ‧</h3>
+<h3 align="center">‧₊˚ What about turning ideas into binaries? ‧</h3>
 
 - 🎓 I'm currently studying **Systems Analysis and Development at the University of São Caetano do Sul (USCS).**
 
