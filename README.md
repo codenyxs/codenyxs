@@ -1,7 +1,7 @@
 <h1 align="center">⋆ Hi! My name is Manuela. ⋆</h1>
 <h3 align="center">‧₊˚ What about turning ideas into binaries? ‧</h3>
 
-<img align="right" alt="codificação" width="400" src="./assets/codificacao.gif.gif">
+<img align="right" alt="codificação" width="400" src=".github/assets/codificacao.gif.gif">
 
 - 🎓 I'm currently studying **Systems Analysis and Development at the University of São Caetano do Sul (USCS).**
 
